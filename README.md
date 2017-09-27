@@ -1,7 +1,7 @@
 AladinCoin integration/staging tree
 ================================
 
-http://www.aladincoin.org
+http://www.aladincoins.com
 
 Copyright (c) 2009-2013 AladinCoin Developers
 
